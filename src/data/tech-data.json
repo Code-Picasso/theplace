@@ -1,0 +1,56 @@
+{
+	"tech_articles": [
+		{
+			"id": 1,
+			"source": "The Guardian.",
+			"cover": "https://unsplash.com/photos/DqvMdSbWlBE",
+			"title": "Crypto Surge.",
+			"date": "12, JUN, 2022.",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt aliquam velit, a hendrerit lorem tincidunt sit amet. Phasellus at ante tempor, laoreet purus nec, interdum tellus. Vivamus sed dignissim lectus. Sed leo neque, bibendum ut tortor ac, varius aliquam dolor. Integer sagittis sit amet ante eget imperdiet. Vivamus vitae rutrum dolor. Cras eu posuere erat. Nam euismod efficitur nibh, vel eleifend orci condimentum ut. Fusce varius eros id sem lacinia, ut maximus magna viverra. Nunc arcu mi, dapibus a erat quis, mattis blandit mauris. Morbi varius lacus ac enim ultrices iaculis. Nulla facilisi. Morbi magna arcu, eleifend eget blandit et, convallis a metus",
+			"images": [
+				"https://unsplash.com/photos/DqvMdSbWlBE",
+				"https://images.unsplash.com/photo-1635236269483-7e5d494e0097?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y3J5cHRvJTIwdHJhZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+				"https://www.istockphoto.com/photo/stock-market-investment-graph-on-financial-numbers-abstract-background-3d-gm1251235330-365090502?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcrypto-trading&utm_term=crypto%20trading%3A%3A%3A"
+			]
+		},
+		{
+			"id": 2,
+			"source": "Times.",
+			"cover": "https://unsplash.com/photos/DqvMdSbWlBE",
+			"title": "Microsoft Launch.",
+			"date": "12, JUN, 2022.",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt aliquam velit, a hendrerit lorem tincidunt sit amet. Phasellus at ante tempor, laoreet purus nec, interdum tellus. Vivamus sed dignissim lectus. Sed leo neque, bibendum ut tortor ac, varius aliquam dolor. Integer sagittis sit amet ante eget imperdiet. Vivamus vitae rutrum dolor. Cras eu posuere erat. Nam euismod efficitur nibh, vel eleifend orci condimentum ut. Fusce varius eros id sem lacinia, ut maximus magna viverra. Nunc arcu mi, dapibus a erat quis, mattis blandit mauris. Morbi varius lacus ac enim ultrices iaculis. Nulla facilisi. Morbi magna arcu, eleifend eget blandit et, convallis a metus",
+			"images": [
+				"https://unsplash.com/photos/DqvMdSbWlBE",
+				"https://images.unsplash.com/photo-1635236269483-7e5d494e0097?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y3J5cHRvJTIwdHJhZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+				"https://www.istockphoto.com/photo/stock-market-investment-graph-on-financial-numbers-abstract-background-3d-gm1251235330-365090502?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcrypto-trading&utm_term=crypto%20trading%3A%3A%3A"
+			]
+		},
+		{
+			"id": 3,
+			"source": "The Guardian.",
+			"cover": "https://unsplash.com/photos/DqvMdSbWlBE",
+			"title": "Crypto Surge.",
+			"date": "12, JUN, 2022.",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt aliquam velit, a hendrerit lorem tincidunt sit amet. Phasellus at ante tempor, laoreet purus nec, interdum tellus. Vivamus sed dignissim lectus. Sed leo neque, bibendum ut tortor ac, varius aliquam dolor. Integer sagittis sit amet ante eget imperdiet. Vivamus vitae rutrum dolor. Cras eu posuere erat. Nam euismod efficitur nibh, vel eleifend orci condimentum ut. Fusce varius eros id sem lacinia, ut maximus magna viverra. Nunc arcu mi, dapibus a erat quis, mattis blandit mauris. Morbi varius lacus ac enim ultrices iaculis. Nulla facilisi. Morbi magna arcu, eleifend eget blandit et, convallis a metus",
+			"images": [
+				"https://unsplash.com/photos/DqvMdSbWlBE",
+				"https://images.unsplash.com/photo-1635236269483-7e5d494e0097?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y3J5cHRvJTIwdHJhZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+				"https://www.istockphoto.com/photo/stock-market-investment-graph-on-financial-numbers-abstract-background-3d-gm1251235330-365090502?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcrypto-trading&utm_term=crypto%20trading%3A%3A%3A"
+			]
+		},
+		{
+			"id": 4,
+			"source": "The Guardian.",
+			"cover": "https://unsplash.com/photos/DqvMdSbWlBE",
+			"title": "Crypto Surge.",
+			"date": "12, JUN, 2022.",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt aliquam velit, a hendrerit lorem tincidunt sit amet. Phasellus at ante tempor, laoreet purus nec, interdum tellus. Vivamus sed dignissim lectus. Sed leo neque, bibendum ut tortor ac, varius aliquam dolor. Integer sagittis sit amet ante eget imperdiet. Vivamus vitae rutrum dolor. Cras eu posuere erat. Nam euismod efficitur nibh, vel eleifend orci condimentum ut. Fusce varius eros id sem lacinia, ut maximus magna viverra. Nunc arcu mi, dapibus a erat quis, mattis blandit mauris. Morbi varius lacus ac enim ultrices iaculis. Nulla facilisi. Morbi magna arcu, eleifend eget blandit et, convallis a metus",
+			"images": [
+				"https://unsplash.com/photos/DqvMdSbWlBE",
+				"https://images.unsplash.com/photo-1635236269483-7e5d494e0097?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y3J5cHRvJTIwdHJhZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+				"https://www.istockphoto.com/photo/stock-market-investment-graph-on-financial-numbers-abstract-background-3d-gm1251235330-365090502?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcrypto-trading&utm_term=crypto%20trading%3A%3A%3A"
+			]
+		}
+	]
+}
