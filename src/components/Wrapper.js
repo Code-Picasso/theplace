@@ -2,7 +2,7 @@ import React from 'react';
 import { SafeAreaView } from 'react-native';
 
 const Wrapper = ({ children }) => {
-	return <SafeAreaView>{children}</SafeAreaView>;
+	return <SafeAreaView style={{ flex: 1 }}>{children}</SafeAreaView>;
 };
 
 export default Wrapper;
