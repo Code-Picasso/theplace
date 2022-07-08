@@ -8,30 +8,17 @@ const styles = StyleSheet.create({
 		justifyContent: 'center',
 		display: 'flex',
 	},
+	topContainer: {
+		width: '100%',
+		marginBottom: 40,
+		flex: 1,
+	},
 	img: {
 		resizeMode: 'contain',
 		width: 200,
+		position: 'absolute',
+		left: 100,
 	},
-	welcomeText: {
-		color: Colors.white,
-		fontSize: 24,
-		marginBottom: 80,
-	},
-	containerOne: {
-		width: 100,
-		height: 100,
-		justifyContent: 'center',
-		alignItems: 'center',
-	},
-	btnOne: {
-		backgroundColor: '#4f4f4f',
-		height: 100,
-		width: 280,
-		opacity: 0.8,
-		borderRadius: 20,
-		marginBottom: 100,
-	},
-	imgGoogle: {},
 });
 
 export default styles;

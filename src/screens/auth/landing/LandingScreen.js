@@ -10,20 +10,17 @@ const LandingScreen = () => {
 			<ImageBackground
 				style={styles.imgBackground}
 				source={require('../../../assets/img/bus-5.jpg')}
-				blurRadius={0.9}
+				blurRadius={0}
 			>
-				<Image
-					style={styles.img}
-					source={require('../../../assets/img/logo.png')}
-				/>
+				<View style={styles.topContainer}>
+					<Image
+						style={styles.img}
+						source={require('../../../assets/img/logo.png')}
+					/>
 
-				<Text style={styles.welcomeText}>Lets get you</Text>
-				<Text style={styles.welcomeText}>Started</Text>
-				<Button
-					style={styles.btnOne}
-					imageStyle={styles.imgGoogle}
-					source={require('../../../assets/img/google.svg')}
-				/>
+					<Text style={styles.welcomeText}>Lets get you</Text>
+					<Text style={styles.welcomeTextTwo}>Started</Text>
+				</View>
 			</ImageBackground>
 		</Wrapper>
 	);
